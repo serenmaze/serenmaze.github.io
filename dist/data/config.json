@@ -1,0 +1,28 @@
+{
+  "site": {
+    "title": "李明的技术博客",
+    "subtitle": "分享技术思考与生活感悟",
+    "description": "一个专注于技术分享、创意写作和生活思考的个人博客",
+    "author": "李明",
+    "email": "admin@blog.com",
+    "url": "https://blog.liming.dev",
+    "logo": "/images/admin-avatar.jpg",
+    "heroImage": "/images/blog-hero-bg.jpg",
+    "theme": {
+      "primaryColor": "#283473",
+      "secondaryColor": "#f8fafc",
+      "accentColor": "#3b82f6"
+    }
+  },
+  "social": {
+    "github": "https://github.com/liming",
+    "twitter": "https://twitter.com/liming",
+    "linkedin": "https://linkedin.com/in/liming"
+  },
+  "navigation": [
+    { "name": "首页", "path": "/" },
+    { "name": "技术", "path": "/category/技术" },
+    { "name": "生活", "path": "/category/生活" },
+    { "name": "关于", "path": "/about" }
+  ]
+}
