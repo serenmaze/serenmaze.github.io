@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "email": "admin@blog.com",
+    "name": "李明",
+    "role": "admin",
+    "avatar": "/images/admin-avatar.jpg",
+    "bio": "全栈开发工程师，专注于React生态系统",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "isActive": true
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "dashboard": {
+    "totalArticles": 3,
+    "publishedArticles": 3,
+    "draftArticles": 0,
+    "totalViews": 3596,
+    "totalLikes": 258,
+    "totalComments": 6,
+    "pendingComments": 0,
+    "weeklyViews": [
+      { "day": "周一", "views": 245 },
+      { "day": "周二", "views": 398 },
+      { "day": "周三", "views": 567 },
+      { "day": "周四", "views": 432 },
+      { "day": "周五", "views": 623 },
+      { "day": "周六", "views": 789 },
+      { "day": "周日", "views": 542 }
+    ],
+    "topArticles": [
+      { "id": "3", "title": "极简生活的艺术", "views": 1456 },
+      { "id": "1", "title": "React 18新特性详解", "views": 1250 },
+      { "id": "2", "title": "创意写作之旅", "views": 890 }
+    ],
+    "categoryStats": [
+      { "name": "技术", "count": 1, "percentage": 33.3 },
+      { "name": "生活", "count": 2, "percentage": 66.7 }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "articleId": "1",
+    "author": "张三",
+    "email": "zhangsan@email.com",
+    "content": "这篇文章写得太好了！React 18的并发特性确实是游戏规则的改变者。我在项目中尝试使用了useTransition，用户体验提升很明显。",
+    "createdAt": "2025-06-26T08:30:00Z",
+    "isApproved": true,
+    "replies": [
+      {
+        "id": "2",
+        "parentId": "1",
+        "author": "李明",
+        "email": "admin@blog.com",
+        "content": "谢谢你的反馈！useTransition确实是一个很棒的Hook，它在处理大列表搜索时特别有用。你在项目中还有其他有趣的应用吗？",
+        "createdAt": "2025-06-26T10:15:00Z",
+        "isApproved": true
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "articleId": "1",
+    "author": "王小美",
+    "email": "wangmei@email.com",
+    "content": "作为一个React新手，这篇文章帮我解决了很多困惑。特别是Suspense的用法，之前一直不理解，现在清楚多了。期待更多关于React最佳实践的文章！",
+    "createdAt": "2025-06-27T14:20:00Z",
+    "isApproved": true,
+    "replies": []
+  },
+  {
+    "id": "4",
+    "articleId": "2",
+    "author": "文学爱好者",
+    "email": "writer@email.com",
+    "content": "作为一个写作新手，这篇文章给了我很多启发。特别是关于灵感捕捉的部分，我也开始随身携带笔记本了。感谢分享！",
+    "createdAt": "2025-06-21T16:45:00Z",
+    "isApproved": true,
+    "replies": [
+      {
+        "id": "5",
+        "parentId": "4",
+        "author": "李明",
+        "email": "admin@blog.com",
+        "content": "很高兴这篇文章对你有帮助！写作确实需要持续的练习和观察。如果你有任何写作方面的问题，随时可以交流。",
+        "createdAt": "2025-06-21T18:30:00Z",
+        "isApproved": true
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "articleId": "3",
+    "author": "极简主义实践者",
+    "email": "minimalist@email.com",
+    "content": "这篇文章说到我心里去了！我实践极简生活已经两年了，确实体验到了内心的平静。特别是数字排毒那部分，删除社交媒体后生活质量明显提升。",
+    "createdAt": "2025-06-16T11:20:00Z",
+    "isApproved": true,
+    "replies": []
+  }
+]
